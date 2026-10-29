@@ -1,0 +1,3988 @@
+{
+ "_comment": "ДЕМО-ДАННЫЕ: выдуманные объекты для проверки кода без интернета. Названия ЖК, застройщиков, групп, станций и адреса не настоящие. Формат повторяет ответ каталога наш.дом.рф (октябрь 2026).",
+ "data": {
+  "list": [
+   {
+    "hobjId": 100000,
+    "objId": 40043,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7838816302",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 23",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "14.207",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 12.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 1",
+    "objFloorMin": 4,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 154,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 7485.05,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0255,
+    "longitude": 30.4027,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004657",
+    "pdId": 1661259,
+    "buildType": "Жилое",
+    "objPriceAVG": 407973
+   },
+   {
+    "hobjId": 100001,
+    "objId": 40632,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7825809806",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 79",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "18.274",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 7.3,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 2",
+    "objFloorMin": 12,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 127,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 5534.23,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9583,
+    "longitude": 30.2172,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002028",
+    "pdId": 1591783,
+    "buildType": "Жилое",
+    "objPriceAVG": 237371
+   },
+   {
+    "hobjId": 100002,
+    "objId": 40720,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7842762079",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 148",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "10.234",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 27.3,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 3",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 679,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 34320.32,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8269,
+    "longitude": 30.3809,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009387",
+    "pdId": 1438433,
+    "buildType": "Жилое",
+    "objPriceAVG": 268673
+   },
+   {
+    "hobjId": 100003,
+    "objId": 41333,
+    "developer": {
+     "devId": 10009,
+     "shortName": "СЗ ПИЛОТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПИЛОТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7857000147"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 128",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.216",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 5.9,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 4",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 159,
+    "objReady100PercDt": "2028-09-30",
+    "objSquareLiving": 7556.77,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8284,
+    "longitude": 30.3864,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-006072",
+    "pdId": 1678563,
+    "buildType": "Жилое",
+    "objPriceAVG": 346685
+   },
+   {
+    "hobjId": 100004,
+    "objId": 41398,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7876262352",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 56",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "10.133",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 35.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 5",
+    "objFloorMin": 9,
+    "objFloorMax": 17,
+    "objElemLivingCnt": 435,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 14541.48,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.925,
+    "longitude": 30.4697,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007580",
+    "pdId": 1576129,
+    "buildType": "Жилое",
+    "objPriceAVG": 221493
+   },
+   {
+    "hobjId": 100005,
+    "objId": 41557,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7833651543",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 60",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "8.103",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 11.3,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 6",
+    "objFloorMin": 12,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 447,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 20549.37,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8158,
+    "longitude": 30.3204,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007049",
+    "pdId": 1639434,
+    "buildType": "Жилое",
+    "objPriceAVG": 409213
+   },
+   {
+    "hobjId": 100006,
+    "objId": 41668,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7862897893",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 124",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "13.115",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 7.5,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 3",
+    "objFloorMin": 4,
+    "objFloorMax": 17,
+    "objElemLivingCnt": 135,
+    "objReady100PercDt": "2029-12-31",
+    "objSquareLiving": 5626.29,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8097,
+    "longitude": 30.354,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001003",
+    "pdId": 1594315,
+    "buildType": "Жилое",
+    "objPriceAVG": 213337
+   },
+   {
+    "hobjId": 100007,
+    "objId": 41798,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7873639532",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 30",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "16.219",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 26.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 7",
+    "objFloorMin": 9,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 708,
+    "objReady100PercDt": "2028-09-30",
+    "objSquareLiving": 28425.04,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0086,
+    "longitude": 30.395,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-008841",
+    "pdId": 1869117,
+    "buildType": "Жилое",
+    "objPriceAVG": 308757
+   },
+   {
+    "hobjId": 100008,
+    "objId": 42515,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7822215229",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 67",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.193",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 41.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 8",
+    "objFloorMin": 9,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 786,
+    "objReady100PercDt": "2025-09-30",
+    "objSquareLiving": 34049.74,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8534,
+    "longitude": 30.4242,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004654",
+    "pdId": 1643016,
+    "buildType": "Жилое",
+    "objPriceAVG": 416533
+   },
+   {
+    "hobjId": 100009,
+    "objId": 42548,
+    "developer": {
+     "devId": 10008,
+     "shortName": "СЗ ОБРАЗЕЦ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОБРАЗЕЦ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7813889649"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 72",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "16.166",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 7.5,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 9",
+    "objFloorMin": 12,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 837,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 40396.29,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8468,
+    "longitude": 30.2437,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-006974",
+    "pdId": 1084450,
+    "buildType": "Жилое",
+    "objPriceAVG": 242175
+   },
+   {
+    "hobjId": 100010,
+    "objId": 43407,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7821378775",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 170",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "4.199",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 37.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 10",
+    "objFloorMin": 4,
+    "objFloorMax": 17,
+    "objElemLivingCnt": 704,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 34473.67,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0533,
+    "longitude": 30.3634,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002421",
+    "pdId": 1839724,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100011,
+    "objId": 43888,
+    "developer": {
+     "devId": 10006,
+     "shortName": "СЗ ТЕСТ ГРАД",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ ГРАД",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7889297484",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 168",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "5.256",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 15.7,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 11",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 166,
+    "objReady100PercDt": "2026-06-30",
+    "objSquareLiving": 7764.01,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8562,
+    "longitude": 30.3356,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001350",
+    "pdId": 1014934,
+    "buildType": "Жилое",
+    "objPriceAVG": 357065
+   },
+   {
+    "hobjId": 100012,
+    "objId": 44139,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7877264814",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 196",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.183",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 8.4,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 12",
+    "objFloorMin": 9,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 279,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 13586.45,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8279,
+    "longitude": 30.241,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008506",
+    "pdId": 1694655,
+    "buildType": "Жилое",
+    "objPriceAVG": 397988
+   },
+   {
+    "hobjId": 100013,
+    "objId": 44148,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7891678821",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 199",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "5.144",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 15.0,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 13",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 624,
+    "objReady100PercDt": "2027-12-31",
+    "objSquareLiving": 22392.17,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8472,
+    "longitude": 30.3762,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009695",
+    "pdId": 1582423,
+    "buildType": "Жилое",
+    "objPriceAVG": 368593
+   },
+   {
+    "hobjId": 100014,
+    "objId": 44606,
+    "developer": {
+     "devId": 10008,
+     "shortName": "СЗ ОБРАЗЕЦ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОБРАЗЕЦ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7818505221"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 84",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "20.229",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 31.2,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 14",
+    "objFloorMin": 4,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 123,
+    "objReady100PercDt": "2027-03-31",
+    "objSquareLiving": 5863.77,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0166,
+    "longitude": 30.3708,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-009319",
+    "pdId": 1987235,
+    "buildType": "Жилое",
+    "objPriceAVG": 310338
+   },
+   {
+    "hobjId": 100015,
+    "objId": 44685,
+    "developer": {
+     "devId": 10008,
+     "shortName": "СЗ ОБРАЗЕЦ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОБРАЗЕЦ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7852410090"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 172",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "8.209",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 6.0,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 15",
+    "objFloorMin": 12,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 287,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 14051.52,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.887,
+    "longitude": 30.4597,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-006999",
+    "pdId": 1149924,
+    "buildType": "Жилое",
+    "objPriceAVG": 221569
+   },
+   {
+    "hobjId": 100016,
+    "objId": 45217,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7867917877",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 104",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.207",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 7.5,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 16",
+    "objFloorMin": 9,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 578,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 20861.82,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8633,
+    "longitude": 30.1519,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008216",
+    "pdId": 1737307,
+    "buildType": "Жилое",
+    "objPriceAVG": 266245
+   },
+   {
+    "hobjId": 100017,
+    "objId": 46019,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7815313436",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 47",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "9.293",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 6.7,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 17",
+    "objFloorMin": 9,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 887,
+    "objReady100PercDt": "2029-03-31",
+    "objSquareLiving": 33122.82,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8547,
+    "longitude": 30.4019,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-003447",
+    "pdId": 1562664,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100018,
+    "objId": 46673,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7812259115",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 23",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "9.121",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 12.9,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 17",
+    "objFloorMin": 4,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 138,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 6650.52,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8859,
+    "longitude": 30.4322,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007844",
+    "pdId": 1971683,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100019,
+    "objId": 47321,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7851874911",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 79",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.294",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 7.7,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 18",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 192,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 9871.69,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0403,
+    "longitude": 30.3471,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-005103",
+    "pdId": 1038744,
+    "buildType": "Жилое",
+    "objPriceAVG": 358608
+   },
+   {
+    "hobjId": 100020,
+    "objId": 48180,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7883270296",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 101",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.178",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 34.1,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 19",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 537,
+    "objReady100PercDt": "2028-12-31",
+    "objSquareLiving": 18805.39,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0119,
+    "longitude": 30.4082,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-003289",
+    "pdId": 1424356,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100021,
+    "objId": 48866,
+    "developer": {
+     "devId": 10011,
+     "shortName": "СЗ МАКЕТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК МАКЕТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7821339367"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 98",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.271",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 17.6,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 20",
+    "objFloorMin": 12,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2029-12-31",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8616,
+    "longitude": 30.1545,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-004036",
+    "pdId": 1165185,
+    "buildType": "Нежилое",
+    "objPriceAVG": 190833
+   },
+   {
+    "hobjId": 100022,
+    "objId": 48872,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7834556192",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 86",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "13.121",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 11.2,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 21",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 411,
+    "objReady100PercDt": "2029-09-30",
+    "objSquareLiving": 15471.88,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9321,
+    "longitude": 30.2305,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-005328",
+    "pdId": 1856733,
+    "buildType": "Жилое",
+    "objPriceAVG": 281888
+   },
+   {
+    "hobjId": 100023,
+    "objId": 49275,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7890068835",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 196",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.284",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 44.5,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 22",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 318,
+    "objReady100PercDt": "2029-06-30",
+    "objSquareLiving": 11004.44,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0434,
+    "longitude": 30.3843,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009404",
+    "pdId": 1657805,
+    "buildType": "Жилое",
+    "objPriceAVG": 351242
+   },
+   {
+    "hobjId": 100024,
+    "objId": 49416,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7815618636",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 164",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.126",
+     "name": "Демо-Центральная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 9.9,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 23",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 662,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 32347.85,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.903,
+    "longitude": 30.2819,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-005006",
+    "pdId": 1513062,
+    "buildType": "Жилое",
+    "objPriceAVG": 295098
+   },
+   {
+    "hobjId": 100025,
+    "objId": 50287,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7819992509",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 68",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "8.286",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 14.8,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 24",
+    "objFloorMin": 4,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 174,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 7921.64,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.879,
+    "longitude": 30.416,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-002257",
+    "pdId": 1502278,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100026,
+    "objId": 50304,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7827910149",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 124",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "2.224",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 19.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 1",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 694,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 24845.95,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0415,
+    "longitude": 30.3876,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009462",
+    "pdId": 1299414,
+    "buildType": "Жилое",
+    "objPriceAVG": 297258
+   },
+   {
+    "hobjId": 100027,
+    "objId": 50769,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7877997185",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 69",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "13.153",
+     "name": "Демо-Центральная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 16.9,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 25",
+    "objFloorMin": 4,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 167,
+    "objReady100PercDt": "2025-12-31",
+    "objSquareLiving": 8481.74,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9349,
+    "longitude": 30.2942,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-006890",
+    "pdId": 1139046,
+    "buildType": "Жилое",
+    "objPriceAVG": 335284
+   },
+   {
+    "hobjId": 100028,
+    "objId": 51083,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7864414461",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 187",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "5.206",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 22.0,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 1",
+    "objFloorMin": 9,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 577,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 23361.3,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0504,
+    "longitude": 30.3202,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-007525",
+    "pdId": 1125872,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100029,
+    "objId": 51861,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7867452267",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 71",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "2.171",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 6.3,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 10",
+    "objFloorMin": 12,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 146,
+    "objReady100PercDt": "2029-03-31",
+    "objSquareLiving": 5907.9,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0381,
+    "longitude": 30.3349,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-008147",
+    "pdId": 1535783,
+    "buildType": "Жилое",
+    "objPriceAVG": 367832
+   },
+   {
+    "hobjId": 100030,
+    "objId": 52615,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7816640560",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 106",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.257",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 36.3,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 26",
+    "objFloorMin": 12,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8172,
+    "longitude": 30.3249,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-003085",
+    "pdId": 1179057,
+    "buildType": "Нежилое",
+    "objPriceAVG": 269042
+   },
+   {
+    "hobjId": 100031,
+    "objId": 52742,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7862931147",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 43",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "6.119",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 17.3,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 27",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 346,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 14088.42,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8332,
+    "longitude": 30.2406,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-008372",
+    "pdId": 1448185,
+    "buildType": "Жилое",
+    "objPriceAVG": 234254
+   },
+   {
+    "hobjId": 100032,
+    "objId": 53139,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7865402616",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 106",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.153",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 23.2,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 28",
+    "objFloorMin": 9,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 324,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 12959.29,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9237,
+    "longitude": 30.2078,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-003062",
+    "pdId": 1720112,
+    "buildType": "Жилое",
+    "objPriceAVG": 334814
+   },
+   {
+    "hobjId": 100033,
+    "objId": 53274,
+    "developer": {
+     "devId": 10008,
+     "shortName": "СЗ ОБРАЗЕЦ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОБРАЗЕЦ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7812927357"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 9",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "14.281",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 36.7,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 29",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 489,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 22137.05,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0294,
+    "longitude": 30.3273,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-009648",
+    "pdId": 1897017,
+    "buildType": "Жилое",
+    "objPriceAVG": 293259
+   },
+   {
+    "hobjId": 100034,
+    "objId": 53280,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7815307809",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 33",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "8.245",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 17.0,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 29",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 778,
+    "objReady100PercDt": "2029-12-31",
+    "objSquareLiving": 27283.62,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9382,
+    "longitude": 30.1928,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008166",
+    "pdId": 1732516,
+    "buildType": "Жилое",
+    "objPriceAVG": 212872
+   },
+   {
+    "hobjId": 100035,
+    "objId": 53570,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7871832849",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 81",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "8.221",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 28.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 30",
+    "objFloorMin": 12,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 347,
+    "objReady100PercDt": "2028-03-31",
+    "objSquareLiving": 12925.08,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8418,
+    "longitude": 30.4112,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001906",
+    "pdId": 1022845,
+    "buildType": "Жилое",
+    "objPriceAVG": 393515
+   },
+   {
+    "hobjId": 100036,
+    "objId": 54273,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7858629752",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 102",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "7.101",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 37.9,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 31",
+    "objFloorMin": 12,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 459,
+    "objReady100PercDt": "2025-09-30",
+    "objSquareLiving": 17124.8,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0303,
+    "longitude": 30.3405,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-006107",
+    "pdId": 1803059,
+    "buildType": "Жилое",
+    "objPriceAVG": 243086
+   },
+   {
+    "hobjId": 100037,
+    "objId": 54335,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7899294283",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 153",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "5.200",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 11.9,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 31",
+    "objFloorMin": 4,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 718,
+    "objReady100PercDt": "2026-06-30",
+    "objSquareLiving": 30457.22,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8285,
+    "longitude": 30.1552,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007444",
+    "pdId": 1471483,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100038,
+    "objId": 55082,
+    "developer": {
+     "devId": 10008,
+     "shortName": "СЗ ОБРАЗЕЦ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ОБРАЗЕЦ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7899178266"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 97",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.184",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 10.8,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 32",
+    "objFloorMin": 4,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 249,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 9774.65,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8747,
+    "longitude": 30.4281,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-003026",
+    "pdId": 1588386,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100039,
+    "objId": 55284,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7869907747",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 83",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.288",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 16.7,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 33",
+    "objFloorMin": 4,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 522,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 18096.41,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9446,
+    "longitude": 30.2612,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-001666",
+    "pdId": 1393811,
+    "buildType": "Жилое",
+    "objPriceAVG": 204393
+   },
+   {
+    "hobjId": 100040,
+    "objId": 55571,
+    "developer": {
+     "devId": 10009,
+     "shortName": "СЗ ПИЛОТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПИЛОТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7852477713"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 77",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "1.284",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 14.8,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 34",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 700,
+    "objReady100PercDt": "2027-03-31",
+    "objSquareLiving": 27609.62,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9215,
+    "longitude": 30.2034,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008630",
+    "pdId": 1814068,
+    "buildType": "Жилое",
+    "objPriceAVG": 247741
+   },
+   {
+    "hobjId": 100041,
+    "objId": 56457,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7853996545",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 82",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.192",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 37.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 6",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 836,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 32405.85,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8307,
+    "longitude": 30.3592,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007680",
+    "pdId": 1067877,
+    "buildType": "Жилое",
+    "objPriceAVG": 300789
+   },
+   {
+    "hobjId": 100042,
+    "objId": 56639,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7869990372",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 60",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "5.206",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 11.0,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 19",
+    "objFloorMin": 12,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 153,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 5819.04,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0449,
+    "longitude": 30.4047,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002985",
+    "pdId": 1817627,
+    "buildType": "Жилое",
+    "objPriceAVG": 257570
+   },
+   {
+    "hobjId": 100043,
+    "objId": 56836,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7887615529",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 84",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "3.201",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 18.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 2",
+    "objFloorMin": 4,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 333,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 12164.15,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9516,
+    "longitude": 30.245,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008600",
+    "pdId": 1038821,
+    "buildType": "Жилое",
+    "objPriceAVG": 299195
+   },
+   {
+    "hobjId": 100044,
+    "objId": 57039,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7888274942",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 20",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.231",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 16.3,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 35",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 121,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 6008.95,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8356,
+    "longitude": 30.2278,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-002733",
+    "pdId": 1668422,
+    "buildType": "Жилое",
+    "objPriceAVG": 332588
+   },
+   {
+    "hobjId": 100045,
+    "objId": 57462,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7853922648",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 174",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.147",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 31.7,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 36",
+    "objFloorMin": 4,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 341,
+    "objReady100PercDt": "2028-06-30",
+    "objSquareLiving": 11500.73,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9219,
+    "longitude": 30.2296,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007687",
+    "pdId": 1106312,
+    "buildType": "Жилое",
+    "objPriceAVG": 342726
+   },
+   {
+    "hobjId": 100046,
+    "objId": 57519,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7866082257",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 80",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.191",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 24.5,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 36",
+    "objFloorMin": 4,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 487,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 22505.59,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.846,
+    "longitude": 30.4002,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-007401",
+    "pdId": 1763396,
+    "buildType": "Жилое",
+    "objPriceAVG": 406657
+   },
+   {
+    "hobjId": 100047,
+    "objId": 58088,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7816938439",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 37",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "13.122",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 12.4,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 37",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 671,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 33398.3,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0303,
+    "longitude": 30.3346,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009538",
+    "pdId": 1180129,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100048,
+    "objId": 58415,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7874791794",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 14",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "20.262",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 23.6,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 37",
+    "objFloorMin": 12,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 282,
+    "objReady100PercDt": "2029-03-31",
+    "objSquareLiving": 10922.05,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8413,
+    "longitude": 30.4091,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004638",
+    "pdId": 1651221,
+    "buildType": "Жилое",
+    "objPriceAVG": 384661
+   },
+   {
+    "hobjId": 100049,
+    "objId": 59162,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7843159683",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 50",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "2.243",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 16.0,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 38",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 489,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 24857.06,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0401,
+    "longitude": 30.3524,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008466",
+    "pdId": 1576771,
+    "buildType": "Жилое",
+    "objPriceAVG": 368960
+   },
+   {
+    "hobjId": 100050,
+    "objId": 59800,
+    "developer": {
+     "devId": 10005,
+     "shortName": "СЗ УЧЕБНЫЙ КВАРТАЛ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК УЧЕБНЫЙ КВАРТАЛ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7810470848",
+     "groupName": "Учебный Девелопмент",
+     "companyGroup": 5002
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 126",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.160",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 10.8,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 39",
+    "objFloorMin": 12,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 478,
+    "objReady100PercDt": "2027-12-31",
+    "objSquareLiving": 21757.61,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9691,
+    "longitude": 30.2637,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-007559",
+    "pdId": 1112277,
+    "buildType": "Жилое",
+    "objPriceAVG": 272472
+   },
+   {
+    "hobjId": 100051,
+    "objId": 59886,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7878649916",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 14",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.196",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 32.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 16",
+    "objFloorMin": 4,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 121,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 5456.17,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8714,
+    "longitude": 30.2496,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-002795",
+    "pdId": 1203116,
+    "buildType": "Жилое",
+    "objPriceAVG": 393710
+   },
+   {
+    "hobjId": 100052,
+    "objId": 60053,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7843852498",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 83",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "20.170",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 41.7,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 27",
+    "objFloorMin": 9,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 818,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 41457.13,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8352,
+    "longitude": 30.2464,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-005306",
+    "pdId": 1645782,
+    "buildType": "Жилое",
+    "objPriceAVG": 263388
+   },
+   {
+    "hobjId": 100053,
+    "objId": 60107,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7881232198",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 163",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.215",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 12.2,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 40",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 775,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 30402.21,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.053,
+    "longitude": 30.3305,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-007459",
+    "pdId": 1773768,
+    "buildType": "Жилое",
+    "objPriceAVG": 250893
+   },
+   {
+    "hobjId": 100054,
+    "objId": 60371,
+    "developer": {
+     "devId": 10011,
+     "shortName": "СЗ МАКЕТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК МАКЕТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7879270678"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 80",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.269",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 16.6,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 40",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 862,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 29778.93,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8448,
+    "longitude": 30.3422,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008081",
+    "pdId": 1437976,
+    "buildType": "Жилое",
+    "objPriceAVG": 395975
+   },
+   {
+    "hobjId": 100055,
+    "objId": 60605,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7881687448",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 106",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.177",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 30.6,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 28",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2027-03-31",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9574,
+    "longitude": 30.2275,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-003207",
+    "pdId": 1014797,
+    "buildType": "Нежилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100056,
+    "objId": 61270,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7817533716",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 144",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "12.252",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 32.6,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 41",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 761,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 36422.2,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0562,
+    "longitude": 30.3934,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001006",
+    "pdId": 1046139,
+    "buildType": "Жилое",
+    "objPriceAVG": 195802
+   },
+   {
+    "hobjId": 100057,
+    "objId": 61897,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7879559423",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 165",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.265",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 13.3,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 41",
+    "objFloorMin": 12,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 707,
+    "objReady100PercDt": "2029-06-30",
+    "objSquareLiving": 30731.55,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0305,
+    "longitude": 30.3264,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008830",
+    "pdId": 1750149,
+    "buildType": "Жилое",
+    "objPriceAVG": 276287
+   },
+   {
+    "hobjId": 100058,
+    "objId": 61941,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7896438868",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 32",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.291",
+     "name": "Демо-Центральная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 17.0,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 41",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 751,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 31239.54,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9032,
+    "longitude": 30.3436,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009572",
+    "pdId": 1278183,
+    "buildType": "Жилое",
+    "objPriceAVG": 403571
+   },
+   {
+    "hobjId": 100059,
+    "objId": 62142,
+    "developer": {
+     "devId": 10009,
+     "shortName": "СЗ ПИЛОТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПИЛОТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7853871936"
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 100",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.253",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 18.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 42",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 253,
+    "objReady100PercDt": "2026-06-30",
+    "objSquareLiving": 9600.59,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0589,
+    "longitude": 30.4042,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-008735",
+    "pdId": 1880501,
+    "buildType": "Жилое",
+    "objPriceAVG": 191468
+   },
+   {
+    "hobjId": 100060,
+    "objId": 62295,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7833024522",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 9",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "1.128",
+     "name": "Демо-Парковая",
+     "line": "Фиолетовая",
+     "color": "#0078C9",
+     "time": 13.7,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 43",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 888,
+    "objReady100PercDt": "2028-03-31",
+    "objSquareLiving": 32880.29,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8986,
+    "longitude": 30.4401,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-003267",
+    "pdId": 1726270,
+    "buildType": "Жилое",
+    "objPriceAVG": 199809
+   },
+   {
+    "hobjId": 100061,
+    "objId": 62409,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7861518491",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 64",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "7.152",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 13.9,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 40",
+    "objFloorMin": 4,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 284,
+    "objReady100PercDt": "2028-03-31",
+    "objSquareLiving": 13783.56,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0547,
+    "longitude": 30.3954,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-005708",
+    "pdId": 1500291,
+    "buildType": "Жилое",
+    "objPriceAVG": 212508
+   },
+   {
+    "hobjId": 100062,
+    "objId": 62742,
+    "developer": {
+     "devId": 10006,
+     "shortName": "СЗ ТЕСТ ГРАД",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ ГРАД",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7859395387",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 197",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "20.228",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 11.2,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 43",
+    "objFloorMin": 9,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 513,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 19474.52,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0447,
+    "longitude": 30.3989,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-009497",
+    "pdId": 1810576,
+    "buildType": "Жилое",
+    "objPriceAVG": 297857
+   },
+   {
+    "hobjId": 100063,
+    "objId": 63527,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7848699623",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 193",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "2.101",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 22.2,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 37",
+    "objFloorMin": 4,
+    "objFloorMax": 17,
+    "objElemLivingCnt": 668,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 32449.04,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8417,
+    "longitude": 30.4025,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 3,
+    "rpdNum": "78-006688",
+    "pdId": 1872243,
+    "buildType": "Жилое",
+    "objPriceAVG": 322942
+   },
+   {
+    "hobjId": 100064,
+    "objId": 64337,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7885330322",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 27",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.191",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 13.3,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 31",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 249,
+    "objReady100PercDt": "2028-03-31",
+    "objSquareLiving": 8737.05,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8252,
+    "longitude": 30.2388,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004377",
+    "pdId": 1317866,
+    "buildType": "Жилое",
+    "objPriceAVG": 397280
+   },
+   {
+    "hobjId": 100065,
+    "objId": 64876,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7853843590",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 40",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.269",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 12.2,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 2",
+    "objFloorMin": 9,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 551,
+    "objReady100PercDt": "2028-03-31",
+    "objSquareLiving": 19511.31,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9478,
+    "longitude": 30.2489,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004785",
+    "pdId": 1132180,
+    "buildType": "Жилое",
+    "objPriceAVG": 337821
+   },
+   {
+    "hobjId": 100066,
+    "objId": 65415,
+    "developer": {
+     "devId": 10006,
+     "shortName": "СЗ ТЕСТ ГРАД",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ ГРАД",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7890919210",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 90",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "6.160",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 21.5,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 44",
+    "objFloorMin": 4,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 712,
+    "objReady100PercDt": "2026-06-30",
+    "objSquareLiving": 25587.35,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8585,
+    "longitude": 30.3929,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002665",
+    "pdId": 1204925,
+    "buildType": "Жилое",
+    "objPriceAVG": 416282
+   },
+   {
+    "hobjId": 100067,
+    "objId": 65895,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7862122275",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 9",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "1.202",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 16.1,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 44",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 280,
+    "objReady100PercDt": "2029-09-30",
+    "objSquareLiving": 9821.36,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8833,
+    "longitude": 30.5181,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001362",
+    "pdId": 1148701,
+    "buildType": "Жилое",
+    "objPriceAVG": 359795
+   },
+   {
+    "hobjId": 100068,
+    "objId": 66692,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7897575082",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 165",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "19.158",
+     "name": "Демо-Приморская",
+     "line": "Зелёная",
+     "color": "#0078C9",
+     "time": 33.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 28",
+    "objFloorMin": 12,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 681,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 32165.61,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9472,
+    "longitude": 30.2113,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002603",
+    "pdId": 1938207,
+    "buildType": "Жилое",
+    "objPriceAVG": 369947
+   },
+   {
+    "hobjId": 100069,
+    "objId": 67590,
+    "developer": {
+     "devId": 10006,
+     "shortName": "СЗ ТЕСТ ГРАД",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ ГРАД",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7898731771",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 47",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "11.299",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 10.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 45",
+    "objFloorMin": 9,
+    "objFloorMax": 9,
+    "objElemLivingCnt": 513,
+    "objReady100PercDt": "2025-12-31",
+    "objSquareLiving": 21634.3,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8723,
+    "longitude": 30.4743,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004273",
+    "pdId": 1544441,
+    "buildType": "Жилое",
+    "objPriceAVG": 384847
+   },
+   {
+    "hobjId": 100070,
+    "objId": 67810,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7871325367",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 176",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "6.200",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 11.7,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 37",
+    "objFloorMin": 4,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0591,
+    "longitude": 30.3555,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-001927",
+    "pdId": 1264721,
+    "buildType": "Нежилое",
+    "objPriceAVG": 281927
+   },
+   {
+    "hobjId": 100071,
+    "objId": 68039,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7880743002",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 101",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.154",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 15.8,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 37",
+    "objFloorMin": 4,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 440,
+    "objReady100PercDt": "2026-09-30",
+    "objSquareLiving": 19370.27,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8479,
+    "longitude": 30.3393,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-004702",
+    "pdId": 1854211,
+    "buildType": "Жилое",
+    "objPriceAVG": null
+   },
+   {
+    "hobjId": 100072,
+    "objId": 68407,
+    "developer": {
+     "devId": 10002,
+     "shortName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СЗ",
+     "fullName": "АЛЬФА ДЕМО НЕДВИЖИМОСТЬ-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7873002019",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 59",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "9.280",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 23.2,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 46",
+    "objFloorMin": 9,
+    "objFloorMax": 17,
+    "objElemLivingCnt": 503,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 21072.64,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9107,
+    "longitude": 30.4682,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-005607",
+    "pdId": 1375366,
+    "buildType": "Жилое",
+    "objPriceAVG": 259419
+   },
+   {
+    "hobjId": 100073,
+    "objId": 68744,
+    "developer": {
+     "devId": 10003,
+     "shortName": "СЗ ПРИМЕР СТАНДАРТ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР СТАНДАРТ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7885777892",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 36",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "17.188",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 13.2,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 6",
+    "objFloorMin": 4,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 451,
+    "objReady100PercDt": "2027-12-31",
+    "objSquareLiving": 16191.94,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8007,
+    "longitude": 30.4152,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-005096",
+    "pdId": 1637744,
+    "buildType": "Жилое",
+    "objPriceAVG": 222828
+   },
+   {
+    "hobjId": 100074,
+    "objId": 69555,
+    "developer": {
+     "devId": 10001,
+     "shortName": "СЗ АЛЬФА-ДЕМО 2",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 2",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7883618558",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 163",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "10.150",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 27.3,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 47",
+    "objFloorMin": 4,
+    "objFloorMax": 19,
+    "objElemLivingCnt": 492,
+    "objReady100PercDt": "2026-03-31",
+    "objSquareLiving": 23636.57,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8247,
+    "longitude": 30.2339,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002916",
+    "pdId": 1582026,
+    "buildType": "Жилое",
+    "objPriceAVG": 286379
+   },
+   {
+    "hobjId": 100075,
+    "objId": 69724,
+    "developer": {
+     "devId": 10007,
+     "shortName": "СЗ ТЕСТ СИТИ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ СИТИ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7810886747",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 83",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "15.278",
+     "name": "Демо-Южная",
+     "line": "Синяя",
+     "color": "#0078C9",
+     "time": 29.7,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 26",
+    "objFloorMin": 12,
+    "objFloorMax": 15,
+    "objElemLivingCnt": 227,
+    "objReady100PercDt": "2027-06-30",
+    "objSquareLiving": 10511.92,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.8504,
+    "longitude": 30.3575,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-002235",
+    "pdId": 1189287,
+    "buildType": "Жилое",
+    "objPriceAVG": 336309
+   },
+   {
+    "hobjId": 100076,
+    "objId": 69763,
+    "developer": {
+     "devId": 10000,
+     "shortName": "СЗ АЛЬФА-ДЕМО 1",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК АЛЬФА-ДЕМО 1",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7829393035",
+     "groupName": "Группа «Альфа-Демо»",
+     "companyGroup": 5000
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 55",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "14.260",
+     "name": "Демо-Невская",
+     "line": "Оранжевая",
+     "color": "#0078C9",
+     "time": 14.4,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 47",
+    "objFloorMin": 4,
+    "objFloorMax": 25,
+    "objElemLivingCnt": 418,
+    "objReady100PercDt": "2026-12-31",
+    "objSquareLiving": 20215.9,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.9095,
+    "longitude": 30.4541,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 2,
+    "rpdNum": "78-004452",
+    "pdId": 1297953,
+    "buildType": "Жилое",
+    "objPriceAVG": 287149
+   },
+   {
+    "hobjId": 100077,
+    "objId": 69976,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7856279641",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 168",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "16.130",
+     "name": "Демо-Западная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 21.6,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 48",
+    "objFloorMin": 9,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 585,
+    "objReady100PercDt": "2027-09-30",
+    "objSquareLiving": 23792.46,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 59.838,
+    "longitude": 30.2086,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 1,
+    "rpdNum": "78-001656",
+    "pdId": 1418254,
+    "buildType": "Жилое",
+    "objPriceAVG": 393688
+   },
+   {
+    "hobjId": 100078,
+    "objId": 70607,
+    "developer": {
+     "devId": 10004,
+     "shortName": "СЗ ПРИМЕР РАЗВИТИЕ",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ПРИМЕР РАЗВИТИЕ",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7882967444",
+     "groupName": "ГК «Пример»",
+     "companyGroup": 5001
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 97",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "20.137",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 31.9,
+     "isWalk": false,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 49",
+    "objFloorMin": 12,
+    "objFloorMax": 23,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2029-03-31",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0358,
+    "longitude": 30.3881,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-004481",
+    "pdId": 1041391,
+    "buildType": "Нежилое",
+    "objPriceAVG": 295312
+   },
+   {
+    "hobjId": 100079,
+    "objId": 71417,
+    "developer": {
+     "devId": 10006,
+     "shortName": "СЗ ТЕСТ ГРАД",
+     "fullName": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК ТЕСТ ГРАД",
+     "orgForm": {
+      "id": 4,
+      "fullForm": "Общество с ограниченной ответственностью",
+      "shortForm": "ООО"
+     },
+     "devInn": "7828615439",
+     "groupName": "ГК «Тест»",
+     "companyGroup": 5003
+    },
+    "rpdRegionCd": 78,
+    "objAddr": "Демо-проспект, д. 80",
+    "shortAddr": "г. Санкт-Петербург, Демо-проспект",
+    "objGreenHouseFlg": 0,
+    "metro": {
+     "id": "18.281",
+     "name": "Демо-Северная",
+     "line": "Красная",
+     "color": "#0078C9",
+     "time": 8.4,
+     "isWalk": true,
+     "colors": [
+      "#0078C9"
+     ]
+    },
+    "objCommercNm": "Демо-квартал 49",
+    "objFloorMin": 9,
+    "objFloorMax": 12,
+    "objElemLivingCnt": 0,
+    "objReady100PercDt": "2029-03-31",
+    "objSquareLiving": 0.0,
+    "objCompensFundFlg": 0,
+    "objProblemFlg": 0,
+    "latitude": 60.0253,
+    "longitude": 30.3518,
+    "problemFlag": "NONE",
+    "siteStatus": "Строящиеся",
+    "objGuarantyEscrowFlg": 1,
+    "residentialBuildings": 0,
+    "rpdNum": "78-008056",
+    "pdId": 1593842,
+    "buildType": "Нежилое",
+    "objPriceAVG": 404787
+   }
+  ],
+  "total": 80
+ }
+}
